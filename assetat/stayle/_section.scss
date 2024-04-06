@@ -1,0 +1,150 @@
+.buy1get{
+    display: flex;
+    width: 100%;
+    width: 469px;
+    gap: 10px;
+}
+.our{
+    width: 100%;
+    height: 144px;
+  margin: 38px;
+text-align: center;
+}
+.our h1{
+    margin: 50px;
+}
+.layout ul {
+display: flex;
+gap: 25px;
+justify-content: center;
+width: 100%;height: 50px;
+text-align: center;
+}.layout ul li {
+    :hover{
+    background-color: rgb(41, 6, 240);
+    color: rgb(3, 2, 5);
+}
+}.cards{
+    display: flex;gap: 27px;
+    width: 100%;height: 860px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;position: relative;
+    width: 300px;
+height: 300px;
+  }.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;position: relative;
+    width: 300px;
+height: 300px;
+  }.card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;position: relative;
+    width: 300px;
+height: 300px;
+  }.card4 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;position: relative;
+    width: 300px;
+height: 300px;
+  }
+
+.new{ position: absolute;
+        left: 220px;
+        top: -1px;
+        width: 10px;    
+        height: 10px;
+        background-color: rgb(175, 175, 182);
+    color: rgb(89, 0, 255);
+    }
+.rever{
+    margin: 9px;
+}
+.card p{
+    margin: 20px;
+}
+.icon{
+    position: absolute;
+    width: 20px;height: 20px;right: 35px;
+    bottom: 20px;
+}.for{
+    display: flex  ;
+    gap: 20px;
+}
+.card0 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  .card5 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }.card6 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }.card7 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  .vebrad{
+    display: flex;
+    gap: 110px;
+    width: 100%;height: 180px;
+    justify-content: center;
+    text-align: center;margin: 40px;
+    align-items:center;border-top: 1px solid rgb(235, 235, 235);
+  }.footer{
+    display: flex;
+    gap: 30px;width: 100%;height: 500px;justify-content: center;
+    text-align: center;align-items: center;
+    &__look p{
+        margin-top: 30px;
+        margin-bottom: 50px; 
+    }&__newlist{
+        position: relative;
+    }
+    &__inter{
+        display: flex;
+        gap: 30px;align-items: center;text-align: center;
+        justify-content: center;
+    }&__newlist  input{
+        border: none;
+        width: 400px;height: 50px;border-radius: 16px;
+    }&__newlist button{
+        position: absolute;background-color: rgb(143, 77, 209);
+       border:none; right: 3px;top: -1px;height: 50px;border-radius: 15px;width: 100px;
+    
+  }}.loropiono{
+    background: rgb(239, 239, 239);
+  }.x{
+background-color: rgb(153, 153, 153);
+  }.s{
+    background-color:rgb(107, 107, 107);
+  }.q{
+    background-color: rgb(138, 138, 138);
+  }.desing{
+    background-color: rgb(134, 134, 134);
+  }
+.lenin{
+    margin: 35px;
+}
