@@ -220,16 +220,14 @@ img {
     width: 100%;
     height: 150px;
     margin: 15px;position: absolute;right: -15.5px;
-}.shod{
-  position: absolute;background-color: rgb(214, 214, 214);
-  left: -90px;width: 190px;height: 35px;border-radius: 20px;
-color: white;:hover{
-  background-color: rgb(173, 173, 173);color: rgb(50, 11, 190);border: none;
-
-}
-
+}.shod:hover{
+  background-color: rgb(235, 235, 240);
+color:rgb(34, 51, 202);}
+.shod{
+  position: absolute; border: none; 
+  left: 6px;width: 220px;height: 55px;border-radius: 20px;color: white;
 } .thead-light{
- background: rgb(90, 90, 201);
+ background: rgb(21, 21, 204);
 }.title{
   width: 100%;height: 100px;
 }
